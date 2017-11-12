@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.jsmyth.android.crypto_check.MainActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appBar_home"
+
+        android:layout_width="match_parent"
+        app:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:layout_height="wrap_content">
+
+        <android.support.v7.widget.Toolbar
+            android:id="@+id/toolbar_home"
+            android:layout_width="match_parent"
+            app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+
+            android:layout_height="?attr/actionBarSize">
+        </android.support.v7.widget.Toolbar>
+    </android.support.design.widget.AppBarLayout>
+
+    <TextView
+        android:id="@+id/tv_emptyView"
+        android:drawableRight="@drawable/ic_add_circle"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/click"/>
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_below="@id/appBar_home"
+        android:id="@+id/crytoRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"></android.support.v7.widget.RecyclerView>
+
+
+
+
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="wrap_content"
+        android:id="@+id/cryto_fab"
+        android:layout_height="wrap_content"
+        app:elevation="5dp"
+        android:layout_margin="20dp"
+        android:src="@drawable/ic_add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"/>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Crypto_Check</string>
+    <string name="clear_cards">Clear cards</string>
+    <string name="help">Help</string>
+    <string name="about_text">This Android application shows the latest exchange rate between cryptocurrencies (BTC and ETH) and 20 major world currencies including Naira.
+It uses cryptocompare public api to get the latest exchange rate\n <b>https://www.cryptocompare.com/api/</b>
+    </string>
+    <string name="about_developer">Developed by Jsmyth</string>
+    <string name="about_version">Version: 1.0</string>
+    <string name="about_build_date">Build date: 2017/11/09</string>
+    <string name="fragment_title">About Crypto_Check</string>
+    <string name="help_msg">
+        1. Click on the floating action button to create a card to display crypto currency and exchange rates between 20 world major currencies.
+        \n\n2. Click on a card to use the crypto converter.
+
+    </string>
+    <string name="about_msg">Crypto-X fetches recent exchange rates between crypto currencies ( BTC and ETH ) and 20 world major currencies from online API, and displays it as a card. Made by Enya Emmanuel, 08188837623, enyasonjnr@gmail.com</string>
+    <string name="fetch_exchange_rate">Fetching Exchange Rate</string>
+    <string name="press_again">Press again to exit</string>
+    <string name="crypto_currency_converter">Currency Converter</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="click">Click to add Card</string>
+
+
+    <string-array name="currency">
+
+        <item>USD</item>
+        <item>EUR</item>
+        <item>NGN</item>
+        <item>CNY</item>
+        <item>CAD</item>
+        <item>ZAR</item>
+        <item>RUB</item>
+        <item>BRL</item>
+        <item>AUD</item>
+        <item>INR</item>
+        <item>SAR</item>
+        <item>AED</item>
+        <item>GHS</item>
+        <item>CLP</item>
+        <item>NOK</item>
+        <item>XOF</item>
+        <item>THB</item>
+        <item>JMD</item>
+        <item>KRW</item>
+        <item>TRY</item>
+
+    </string-array>
+
+    <string-array name="symbol">
+
+        <item>$</item>
+        <item>€</item>
+        <item>₦</item>
+        <item>¥</item>
+        <item>$</item>
+        <item>R</item>
+        <item>руб</item>
+        <item>R$</item>
+        <item>$</item>
+        <item>₨</item>
+        <item>ر.س</item>
+        <item>د.إ</item>
+        <item>‎₵</item>
+        <item>CL$</item>
+        <item>øre</item>
+        <item>franc</item>
+        <item>฿</item>
+        <item>$</item>
+        <item>₩</item>
+        <item>₺</item>
+
+    </string-array>
+</resources>

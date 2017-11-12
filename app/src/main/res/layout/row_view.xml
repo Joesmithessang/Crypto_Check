@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    android:layout_width="match_parent"
+    android:layout_height="245dp"
+    app:cardCornerRadius="5dp"
+    app:cardElevation="5dp"
+    app:cardUseCompatPadding="true">
+
+
+<RelativeLayout
+    android:layout_width="match_parent"
+    android:background="?attr/selectableItemBackgroundBorderless"
+    android:layout_height="match_parent">
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/image_coin"
+            android:layout_width="64dp"
+            android:layout_height="64dp"
+            android:layout_margin="5dp"
+            android:src="@drawable/bitcoin" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:orientation="horizontal">
+
+            <TextView
+                android:id="@+id/tv_symbol"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginRight="5dp"
+                android:text="$"
+                android:textSize="14sp" />
+
+            <TextView
+                android:id="@+id/tv_crytoValue"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+
+                android:text="5761"
+                android:textColor="#060606"
+                android:textSize="20sp" />
+
+
+        </LinearLayout>
+
+
+        <RelativeLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/spinner_border">
+
+            <Spinner
+                android:id="@+id/spinner_crypto"
+
+                style="@style/Widget.AppCompat.DropDownItem.Spinner"
+                android:layout_width="100dp"
+
+
+                android:layout_height="25dp"></Spinner>
+        </RelativeLayout>
+    </LinearLayout>
+    <ImageView
+        android:id="@+id/image_view_delete"
+        android:layout_width="wrap_content"
+        android:padding="10dp"
+        android:background="?attr/selectableItemBackgroundBorderless"
+        android:clickable="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_delete" />
+
+</RelativeLayout>
+</android.support.v7.widget.CardView>

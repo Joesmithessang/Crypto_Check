@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/af0d6729f1ca9727be436fea742b120f5643cc61/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_4c0f24d4a1684398865c83417e61d3ef6a602177.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/a077bf30a2186839563c92031b62695797519d53/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_aa318a444fa47ef6164734dcad2497b499361d72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/430ec4d18c1f0ad09874fe698fb4d43e2e22c629/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_708e19daed37566927554f9f9455a669012ccdd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/6391cab5a6b37539a7f50ff4ac08e97fa4f6169e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_1a97631d66439ba578ec2fe15988900b681af4e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/34256d9567b6b26857b2ceedd52b4fd5681d92c1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_84be8f497877d6acc0e41611c9c489860f64cc20.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/0564ee93e758e9756759e13ab5147e072cc0d485/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_79f23eccf1e43fdb4537a67a286d580141a40138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/support-annotations-25.3.1_c4abd410cdb404bed9c323898483d2dacbcfc659.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.9.0/1b6c10b5120995a7542c1a31b7828fb8593c8ba/okhttp-3.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="01b6c10b5120995a7542c1a31b7828fb8593c8ba">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/okhttp-3.9.0_7619b16af2e3e9d1b02f8cec025b3d6c95242da7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/12bbe420ee65c60a411f0e1ac12e2e944f7fbc99/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_c8bb478b0ba8e75ed50d7c3c13d333330928820d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/f1f1e1ea8706af783d8a3479505b9ef529e9ed42/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_f96830f83df0ea7d0149b19d0ab1565b917144bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/81a0af6146e0bf8f3b2c0300796741ad1255683a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_9d86f592ca65df538ee58c68618248b81542b6cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/292643254a004cc780fd71cb0ded76be62b2f4af/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_00467428201d5383221fe17c44d70de5a47c2a5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/ff16e16149e762ae88a85b739e5c382ac84a2716/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_ad61cf3b9007542d08afc4249ad9c5e2ba8d746d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/85bc2b2eaef08b8c92111ec1d87337ee794801fc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_c6d4381b78896b8fa57f8258a2a75b57332caf80.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.android/build-cache/00d8557959440ed8c3c6912620426fd3d39d83a4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/classes_987935fd860d8cb8ddcfd72f0003a653efb07e61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/joesmithessang/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/joesmithessang/AndroidStudioProjects/Crypto-X/app/build/intermediates/pre-dexed/debug/okio-1.13.0_b9094e9c1ecfb1f3f1fb4f33e2e0328c0fa0a483.jar" />
+    </item>
+
+</items>
